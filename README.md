@@ -1,6 +1,6 @@
 <!-- Saludo -->
 <h1 align="center">
-  ¡Hola, soy [Tu nombre]! <img src="https://media.giphy.com/media/3ohs7MvxNsT95vTCzu/giphy.gif" width="50px">
+  ¡Hola, soy Jose Constantino! <img src="https://media.giphy.com/media/3ohs7MvxNsT95vTCzu/giphy.gif" width="50px">
 </h1>
 
 <p align="center">Soy un(a) profesional de Business Intelligence con experiencia en MySQL, PHP, JavaScript, Python, DAX, Power BI y Dolibarr.</p>
