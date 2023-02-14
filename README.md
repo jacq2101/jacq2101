@@ -21,20 +21,21 @@
   <img src="https://img.shields.io/badge/Dolibarr-%238B8B8B.svg?&style=for-the-badge&logo=Dolibarr&logoColor=white"/>
 </p>
 
-<h2 align="center">Proyectos Destacados</h2>
-<div align="center">
-  <a href="Enlace al proyecto 1">
-    <img src="ruta/a/la/imagen/proyecto1.jpg" alt="Proyecto 1" width="500" height="300">
-  </a>
-  <br>
-  <a href="Enlace al proyecto 2">
-    <img src="ruta/a/la/imagen/proyecto2.jpg" alt="Proyecto 2" width="500" height="300">
-  </a>
-  <br>
-  <a href="Enlace al proyecto 3">
-    <img src="ruta/a/la/imagen/proyecto3.jpg" alt="Proyecto 3" width="500" height="300">
-  </a>
-</div>
+<h2 align="center">Proyectos Destacados 🚀</h2>
+<ul>
+  <li>
+    <h3>Proyecto 1</h3>
+    <p>Desarrollé una solución de Business Intelligence usando MySQL como base de datos, PHP y JavaScript para la capa de presentación y DAX para crear cálculos y medidas en Power BI. El proyecto permitió a la empresa visualizar y analizar los datos de ventas de manera más eficiente y tomar decisiones informadas.</p>
+  </li>
+  <li>
+    <h3>Proyecto 2</h3>
+    <p>Desarrollé una herramienta de análisis de datos para un cliente usando Python para la limpieza y preparación de datos, y Power BI para la visualización y creación de informes. La herramienta permitió al cliente identificar oportunidades de ahorro de costos y mejorar la eficiencia operativa.</p>
+  </li>
+  <li>
+    <h3>Proyecto 3</h3>
+    <p>Desarrollé un panel de control para un cliente usando Dolibarr para la gestión de la relación con el cliente y PHP para la integración con otras fuentes de datos. El panel permitió al cliente ver en tiempo real el estado de sus ventas y la efectividad de sus estrategias de marketing.</p>
+  </li>
+</ul>
 
 
 <h2 align="center">Contacto</h2>
