@@ -5,16 +5,17 @@
 <h2 align="center">Acerca de mí</h2>
 <p align="center">Me encanta crear soluciones eficientes y efectivas para los problemas de datos empresariales. Estoy en constante aprendizaje de nuevas herramientas y tecnologías para seguir mejorando y ofrecer el mejor servicio posible.</p>
 
-<h2 align="center">Habilidades</h2>
+<!-- Habilidades -->
+## Habilidades
 <p align="center">
-  <img src="https://img.shields.io/badge/-Business%20Intelligence-yellow" alt="Business Intelligence" />
-  <img src="https://img.shields.io/badge/-MySQL-blue" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-PHP-purple" alt="PHP" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellowgreen" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Python-blueviolet" alt="Python" />
-  <img src="https://img.shields.io/badge/-DAX-orange" alt="DAX" />
-  <img src="https://img.shields.io/badge/-Power%20BI-red" alt="Power BI" />
-  <img src="https://img.shields.io/badge/-Dolibarr-blue" alt="Dolibarr" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence%20-%23F37626.svg?&style=for-the-badge&logo=BusinessIntelligence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-%230076D6.svg?&style=for-the-badge&logo=DAX&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?&style=for-the-badge&logo=PowerBI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dolibarr-%238B8B8B.svg?&style=for-the-badge&logo=Dolibarr&logoColor=white"/>
 </p>
 
 <h2 align="center">Proyectos Destacados</h2>
