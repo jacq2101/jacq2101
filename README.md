@@ -22,16 +22,20 @@
 </p>
 
 <h2 align="center">Proyectos Destacados</h2>
+<div align="center">
+  <a href="Enlace al proyecto 1">
+    <img src="ruta/a/la/imagen/proyecto1.jpg" alt="Proyecto 1" width="500" height="300">
+  </a>
+  <br>
+  <a href="Enlace al proyecto 2">
+    <img src="ruta/a/la/imagen/proyecto2.jpg" alt="Proyecto 2" width="500" height="300">
+  </a>
+  <br>
+  <a href="Enlace al proyecto 3">
+    <img src="ruta/a/la/imagen/proyecto3.jpg" alt="Proyecto 3" width="500" height="300">
+  </a>
+</div>
 
-- [Nombre del proyecto 1](Enlace al proyecto) - Una descripción breve del proyecto y cómo se usaron tus habilidades.
-- [Nombre del proyecto 2](Enlace al proyecto) - Una descripción breve del proyecto y cómo se usaron tus habilidades.
-- [Nombre del proyecto 3](Enlace al proyecto) - Una descripción breve del proyecto y cómo se usaron tus habilidades.
-
-<h2 align="center">Contribuciones Destacadas</h2>
-
-- [Nombre del proyecto](Enlace al proyecto) - Una descripción breve de la contribución y cómo ayudó a mejorar el proyecto.
-- [Nombre del proyecto](Enlace al proyecto) - Una descripción breve de la contribución y cómo ayudó a mejorar el proyecto.
-- [Nombre del proyecto](Enlace al proyecto) - Una descripción breve de la contribución y cómo ayudó a mejorar el proyecto.
 
 <h2 align="center">Contacto</h2>
 <p align="center">Puedes encontrarme en <a href="Enlace a tu perfil de LinkedIn">LinkedIn</a> para hablar sobre proyectos interesantes en los que podamos colaborar o cualquier otra cosa relacionada con Business Intelligence.</p>
