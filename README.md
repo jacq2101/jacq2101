@@ -43,18 +43,18 @@
 <h2 align="center">Proyectos Destacados 🚀</h2>
 <ul>
   <li>
-    <h3><img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" alt="Imagen Proyecto 1" width="40" height="40">
+    <h3><img src="https://media.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.gif" alt="Imagen Proyecto 1" width="40" height="40">
     Proyecto 1</h3>
     <p>Desarrollé una solución de Business Intelligence usando MySQL como base de datos, PHP y JavaScript para la capa de presentación y DAX para crear cálculos y medidas en Power BI. El proyecto permitió a la empresa visualizar y analizar los datos de ventas de manera más eficiente y tomar decisiones informadas.</p>
-    <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" alt="Imagen Proyecto 1" width="300" height="200">
   </li>
   <li>
-    <h3>Proyecto 2</h3>
+    <h3><img src="https://media.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.gif" alt="Imagen Proyecto 1" width="40" height="40">
+    Proyecto 2</h3>
     <p>Desarrollé una herramienta de análisis de datos para un cliente usando Python para la limpieza y preparación de datos, y Power BI para la visualización y creación de informes. La herramienta permitió al cliente identificar oportunidades de ahorro de costos y mejorar la eficiencia operativa.</p>
-    <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" alt="Imagen Proyecto 2" width="300" height="200">
   </li>
   <li>
-    <h3>Proyecto 3</h3>
+    <h3><img src="https://media.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.gif" alt="Imagen Proyecto 1" width="40" height="40">
+    Proyecto 3</h3>
     <p>Desarrollé un panel de control para un cliente usando Dolibarr para la gestión de la relación con el cliente y PHP para la integración con otras fuentes de datos. El panel permitió al cliente ver en tiempo real el estado de sus ventas y la efectividad de sus estrategias de marketing.</p>
     <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" alt="Imagen Proyecto 3" width="300" height="200">
   </li>
