@@ -36,4 +36,4 @@
   <p>Desarrollé un panel de control para un cliente usando Dolibarr para la gestión de la relación con el cliente y PHP para la integración con otras fuentes de datos. El panel permitió al cliente ver en tiempo real el estado de sus ventas y la efectividad de sus estrategias de marketing.</p>
 </ul>
 <h2 align="center">Contacto</h2>
-<p align="center">Puedes encontrarme en <a href="Enlace a tu perfil de LinkedIn">LinkedIn</a> para hablar sobre proyectos interesantes en los que podamos colaborar o cualquier otra cosa relacionada con Business Intelligence.</p>
+<p align="center">Puedes encontrarme en <a href="https://www.linkedin.com/in/antonio-c-0014b428/">LinkedIn</a> para hablar sobre proyectos interesantes en los que podamos colaborar o cualquier otra cosa relacionada con Business Intelligence.</p>
