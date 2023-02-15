@@ -39,9 +39,9 @@
 <p align="center">¡Hola! Soy Jacq2101 y estoy interesado en colaborar en proyectos relacionados con programación y tecnología. Si deseas contactarme, puedes encontrarme en:</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/antonio-c-0014b428/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/18954804/jacq2101">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" width="150">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
   </a>&nbsp;&nbsp;
 </p>
