@@ -43,6 +43,7 @@
 <h2 align="center">Proyectos Destacados 🚀</h2>
 <ul>
   <li>
+    <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" alt="Imagen Proyecto 1" width="40" height="40">
     <h3>Proyecto 1</h3>
     <p>Desarrollé una solución de Business Intelligence usando MySQL como base de datos, PHP y JavaScript para la capa de presentación y DAX para crear cálculos y medidas en Power BI. El proyecto permitió a la empresa visualizar y analizar los datos de ventas de manera más eficiente y tomar decisiones informadas.</p>
     <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" alt="Imagen Proyecto 1" width="300" height="200">
