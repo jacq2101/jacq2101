@@ -1,6 +1,6 @@
 <!-- Saludo -->
 <h1 align="center">
-  ¡Hola, soy Jose Constantino! <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="50px">
+  ¡Hola, soy Jose Constantino! <img src="https://media.giphy.com/media/lyEMC9IvrtfKUEtPRW/giphy.gif" width="60px">
 </h1>
 
 <p align="center">Soy un profesional de Business Intelligence con experiencia en MySQL, PHP, JavaScript, Python, DAX, Power BI y Dolibarr.</p>
