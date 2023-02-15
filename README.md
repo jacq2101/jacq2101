@@ -35,7 +35,7 @@
   Proyecto 3</h3>
   <p>Desarrollé un panel de control para un cliente usando Dolibarr para la gestión de la relación con el cliente y PHP para la integración con otras fuentes de datos. El panel permitió al cliente ver en tiempo real el estado de sus ventas y la efectividad de sus estrategias de marketing.</p>
 </ul>
-<h2 align="center">Contáctame</h2>
+<h2 align="center">Contáctame 👇🏻</h2>
 <p align="center">¡Hola! Soy Jacq2101 y estoy interesado en colaborar en proyectos relacionados con programación y tecnología. Si deseas contactarme, puedes encontrarme en:</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/antonio-c-0014b428/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>&nbsp;&nbsp;
