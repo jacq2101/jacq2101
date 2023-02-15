@@ -12,15 +12,15 @@
 <h2 align="center">Habilidades</h2>
 <p align="center">
   <img height="30" src="https://img.shields.io/badge/Business%20Intelligence%20-%23F37626.svg?&style=for-the-badge&logo=BusinessIntelligence&logoColor=white"/>
-  <img height="60" src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img height="60" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img height="60" src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img height="30" src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 <p align="center">
-  <img height="60" src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img height="60" src="https://img.shields.io/badge/DAX-%230076D6.svg?&style=for-the-badge&logo=DAX&logoColor=white"/>
-  <img height="60" src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?&style=for-the-badge&logo=PowerBI&logoColor=white"/>
-  <img height="60" src="https://img.shields.io/badge/Dolibarr-%238B8B8B.svg?&style=for-the-badge&logo=Dolibarr&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/DAX-%230076D6.svg?&style=for-the-badge&logo=DAX&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?&style=for-the-badge&logo=PowerBI&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/Dolibarr-%238B8B8B.svg?&style=for-the-badge&logo=Dolibarr&logoColor=white"/>
 </p>
 
 <h2 align="center">Proyectos Destacados 🚀</h2>
