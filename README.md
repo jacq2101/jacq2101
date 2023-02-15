@@ -11,7 +11,7 @@
 <!-- Habilidades -->
 <h2 align="center">Habilidades</h2>
 <p align="center">
-  <img height="40" src="https://img.shields.io/badge/Business%20Intelligence%20-%23F37626.svg?&style=for-the-badge&logo=BusinessIntelligence&logoColor=white"/>
+  <img height="35" src="https://img.shields.io/badge/Business%20Intelligence%20-%23F37626.svg?&style=for-the-badge&logo=BusinessIntelligence&logoColor=white"/>
   <img height="60" src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img height="60" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img height="60" src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
