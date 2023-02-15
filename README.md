@@ -3,7 +3,7 @@
   ¡Hola, soy Jose Constantino! <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="50px">
 </h1>
 
-<p align="center">Soy un(a) profesional de Business Intelligence con experiencia en MySQL, PHP, JavaScript, Python, DAX, Power BI y Dolibarr.</p>
+<p align="center">Soy un profesional de Business Intelligence con experiencia en MySQL, PHP, JavaScript, Python, DAX, Power BI y Dolibarr.</p>
 
 <h2 align="center">Acerca de mí 🎯</h2>
 <p align="center">Me encanta crear soluciones eficientes y efectivas para los problemas de datos empresariales. Estoy en constante aprendizaje de nuevas herramientas y tecnologías para seguir mejorando y ofrecer el mejor servicio posible.</p>
